@@ -6,5 +6,7 @@ Using this order, it will print the prices and tax for the items to the console.
 The user will input the amount paid, then the program will calculate how much money to give back to the user.
 
 Language: C++
+
 Lines: 175
+
 Date Completed: 09/10/23
